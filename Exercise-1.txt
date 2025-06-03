@@ -14,7 +14,7 @@
 	- 1998-05-06 00:00:00
 
 6. How many customers do we currently have? 
-	- 93
+	- 93 total
 
 7. Do we have any suppliers in South America? Europe? Africa? 
 	- South America and Europe only but not Africa.
