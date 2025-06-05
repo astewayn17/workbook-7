@@ -10,7 +10,7 @@ FROM
 JOIN 
 	northwind.Categories C ON (C.CategoryID = P.CategoryID)
 ORDER BY
-    C.CategoryName,
+	C.CategoryName,
     P.ProductName;
 
 -- #2 List the product id, product name, unit price and supplier name of all 
